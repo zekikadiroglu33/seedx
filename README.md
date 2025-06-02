@@ -20,4 +20,7 @@
 * Secondly, start the camera (simulation)
 * One minute later, click the stop_session
 * Check the video please.
-* https://github.com/zekikadiroglu33/seedx/blob/main/ui/seedx_video.mov
+
+
+https://github.com/user-attachments/assets/29b523ec-acab-4118-8994-6f8fc052b100
+
