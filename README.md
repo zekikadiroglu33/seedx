@@ -12,4 +12,6 @@
 ### Execute the following command.
 * `docker-compose up --build`
 
+### Follow the URL that is below to open the UI.
+* `http://0.0.0.0:8501`
 
