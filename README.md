@@ -10,6 +10,6 @@
 `POSTGRES_DB=seedx`
 
 ### Execute the following command.
-* docker-compose up --build
+* `docker-compose up --build`
 
 
