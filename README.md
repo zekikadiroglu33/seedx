@@ -21,6 +21,7 @@
 * One minute later, click the stop_session
 * Check the video please.
 
+#### In order to observe the streaming, please check the `backend-1 container` logs.
 
 https://github.com/user-attachments/assets/29b523ec-acab-4118-8994-6f8fc052b100
 
